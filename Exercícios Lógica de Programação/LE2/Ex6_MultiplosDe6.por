@@ -1,15 +1,15 @@
-programa{
+programa{
 	
 	//Declaração de variáveis
 	inteiro inicioIntervalo, finalIntervalo, somaInicio = 0, restoInicio = 0, nInicio = 0, somaFinal = 0, restoFinal = 0, nFinal = 0, somaTotal = 0
 	logico validacaoIntervalo = falso
 	
-	funcao inicio(){
+	funcao inicio(){
 		
-		enquanto(validacaoIntervalo == falso){ //Laço para validação do intervalo, que deve ser maior que 100
+		enquanto(validacaoIntervalo == falso){ //Laço para validação do intervalo, que deve ser maior que 100
 		escreva("Digite o primeiro número do intervalo: ") //Pede ao usuário que escreva o valor inicial do intervalo
 		leia(inicioIntervalo) //Atribui o valor digitado pelo usuário à variável 'inicioIntervalo'
-		escreva("Digite o último número do intervalo: ") //Pede ao usuário que escreva o valor final do intervalo
+		escreva("Digite o último número do intervalo: ") //Pede ao usuário que escreva o valor final do intervalo
 		leia(finalIntervalo) //Atribui o valor digitado pelo usuário à variável 'finalIntervalo'
 		limpa() //Limpa o console
 	
@@ -61,7 +61,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2420; 
+ * @POSICAO-CURSOR = 1103; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
