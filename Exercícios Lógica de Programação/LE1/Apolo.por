@@ -1,9 +1,9 @@
-programa{
+programa{
 	
-	//Declaração de variáveis
+	//Declaração de variáveis
 	real expressaoA, expressaoB
 	
-	funcao inicio(){
+	funcao inicio(){
 	
 	//Expressão A
 	expressaoA = 2 + 3 - 5 * 8 - 4 + 354 - 521 + 7 * 66
@@ -24,7 +24,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 109; 
+ * @POSICAO-CURSOR = 8; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

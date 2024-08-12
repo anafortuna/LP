@@ -1,12 +1,12 @@
-programa{
+programa{
 	
 	//Declaração de variáveis
-	real angulo1, angulo2, angulo3, somaAngulos = 0
+	real angulo1, angulo2, angulo3, somaAngulos = 0
 	logico dadosValidos = falso
 	
-	funcao inicio(){
+	funcao inicio(){
 		
-	enquanto(nao dadosValidos){ //Validação que verifica se os ângulos informados pelo usuário compõem um triângulo
+	enquanto(dadosValidos == falso){ //Validação que verifica se os ângulos informados pelo usuário compõem um triângulo
 	
 	//Pede ao usuário que entre com os valores dos 3 ângulos do triângulo
 	escreva("Digite o valor do primeiro ângulo do triângulo: ")
@@ -44,7 +44,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 257; 
+ * @POSICAO-CURSOR = 171; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

@@ -1,12 +1,12 @@
-programa{
+programa{
 	
 	//Declaração de variáveis
-	inteiro opcao
+	inteiro opcao
 	caracter confirmacao
 	cadeia vetorProdutosComEstoque[4] = {"Produtos com Estoque", "Sabonete", "Shampoo", "Condicionador"}
 	cadeia vetorProdutosSemEstoque[4] = {"Produtos sem Estoque", "Hidratante", "Desodorante", "Pasta de dente"}
 	
-	funcao inicio(){
+	funcao inicio(){
 
 	//Pede ao usuário para digitar o número correspondente à sua escolha
 	escreva("Digite 1 para Listar produtos com estoque, 2 para Listar produtos sem etoque ou 3 para Sair: ")
@@ -76,7 +76,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1927; 
+ * @POSICAO-CURSOR = 8; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

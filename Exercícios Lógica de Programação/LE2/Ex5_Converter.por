@@ -1,4 +1,4 @@
-programa{
+programa{
 
 	inclua biblioteca Matematica --> math
 	inclua biblioteca Tipos --> tp
@@ -7,7 +7,7 @@ programa{
 	real horasQuebradas, minutos
 	inteiro horas, segundos
 	
-	funcao inicio(){
+	funcao inicio(){
 
 	//Pede ao usuário que informe um número de horas
 	escreva("Digite o número de horas a ser convertidos em segundos: ")
@@ -38,7 +38,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 884; 
+ * @POSICAO-CURSOR = 8; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

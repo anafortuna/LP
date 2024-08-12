@@ -1,9 +1,9 @@
-programa{
+programa{
 	
 	//Declaração de variáveis
 	inteiro idadeColega1, idadeColega2, idadeColega3, idadeColega4, idadeColega5, minhaIdade, somaDasIdades = 0
 	
-	funcao inicio(){
+	funcao inicio(){
 
 	//Pede ao usuário que digite a sua idade
 	escreva("Qual a sua idade? ")
@@ -53,7 +53,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1249; 
+ * @POSICAO-CURSOR = 8; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

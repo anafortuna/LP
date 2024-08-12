@@ -1,11 +1,11 @@
-programa{
+programa{
 	
 	//Declaração de variáveis
-	real TC, TF
+	real TC, TF
 	
-	funcao inicio(){
+	funcao inicio(){
 		
-	//Pede ao usuário que digite uma temperatura, em graus Celsius
+	//Pede ao usuário que digite uma temperatura, em graus Celsius
 	escreva("Temperatura em ºC: ")
 	
 	//Atribui o valor digitado à variável "TC"
@@ -26,7 +26,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 460; 
+ * @POSICAO-CURSOR = 8; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

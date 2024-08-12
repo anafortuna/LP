@@ -1,9 +1,9 @@
-programa{
+programa{
 	
 	//Declaração de variáveis
 	cadeia nome, sobrenome
 	
-	funcao inicio(){
+	funcao inicio(){
 		
 	//Pede ao usuário que digite seu nome
 	escreva("Digite seu nome: ")
@@ -27,7 +27,7 @@ programa{
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 377; 
+ * @POSICAO-CURSOR = 8; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
